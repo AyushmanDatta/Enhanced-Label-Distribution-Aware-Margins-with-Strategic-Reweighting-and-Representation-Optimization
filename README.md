@@ -15,7 +15,7 @@ The code is built with following libraries:
 ### Dataset
 
 - Imbalanced [CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html). The original data will be downloaded and converted by `imbalancec_cifar.py`.
-- The paper also reports results on Tiny TissueMnist, OrganCmnist, OrganSmnist, Mnist and Fmnist. We have the code for those datasets present.
+- The paper also reports results on TissueMnist, OrganCmnist, OrganSmnist, Mnist and Fmnist. We have the code for those datasets present.
 
 ### Training 
 
