@@ -1,8 +1,8 @@
-## Enhanced-Label-Distribution-Aware-Margins-with-Strategic-Reweighting-and-Representation-Optimization
+## Enhanced Label Distribution Aware Margins with Strategic Reweighting and Representation Optimization
 #Author names
 _________________
 
-This is the official implementation of LDAM-DRW in the paper [Enhanced-Label-Distribution-Aware-Margins-with-Strategic-Reweighting-and-Representation-Optimization].
+This is the official implementation of LDAM-DRW in the paper [Enhanced Label Distribution Aware Margins with Strategic Reweighting and Representation-Optimization].
 
 ### Dependency
 
